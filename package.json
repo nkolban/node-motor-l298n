@@ -1,0 +1,25 @@
+{
+  "name": "motor-l298n",
+  "version": "0.0.1",
+  "description": "Module to control an l298n motor controller on a Pi",
+  "main": "src/motor-l298n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "wiring-pi": "*"
+  },
+  "keywords": [
+    "l298n",
+    "motor",
+    "node.js",
+    "raspberry pi"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkolban/node-motor-l298n.git"
+  },
+  "author": "Neil Kolban",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
